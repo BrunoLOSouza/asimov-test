@@ -1,0 +1,20 @@
+{
+  "name": "parte-1",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.10",
+    "tailwindcss": "^4.2.3",
+    "vite": "^8.0.9"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.2.3"
+  }
+}
